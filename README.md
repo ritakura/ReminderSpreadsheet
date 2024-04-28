@@ -14,16 +14,16 @@ Author: Reina Itakura (ritakura@ucdavis.edu) Contact for any questions.
 Example of a google spreadsheet: https://docs.google.com/spreadsheets/d/**1EQAbS30ys5ZKUQ4GyYd-4EP20yWKFuJSSZrpFxZet90**/edit#gid=0
 - The Spreadsheet ID of this google spread sheet is the part in bold. Record the spreadsheet ID of **YOUR** google spreadsheet
 - The Spreadsheet must be in this format.
-Use this link to determine the sms gateway domain for a volunteer's carrier: https://www.digitaltrends.com/mobile/how-to-send-a-text-from-your-email-account/
+- Use this link to determine the sms gateway domain for a volunteer's carrier: https://www.digitaltrends.com/mobile/how-to-send-a-text-from-your-email-account/
 
 # Setting up the Python Script
 1. Make sure you have python installed.
 2. Install any necessary packages
 3. Go into the config.py file and replace all square brackets with the corresponding vales for your google account.
-  a. EMAIL = "xxx@gmail.com"
-  b. PASS = "App password created during Google Account setup"
-  c. SHEETS_ID = "The long alphanumeric string in bold"
-  d. JSON = "file name of the json file you downloaded when generating an access key"
+- EMAIL = "xxx@gmail.com"
+- PASS = "App password created during Google Account setup"
+- SHEETS_ID = "The long alphanumeric string in bold"
+- JSON = "file name of the json file you downloaded when generating an access key"
 4. You should be ready to run the script.
 
 # How to run
