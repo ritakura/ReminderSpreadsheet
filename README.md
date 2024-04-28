@@ -1,5 +1,5 @@
 # ReminderSpreadsheet
-Semi-automated texts to send volunteers reminders the day before their shift.
+Semi-automated texts to send volunteers reminders the day before their shift.\
 Author: Reina Itakura (ritakura@ucdavis.edu) Contact for any questions.
 
 # Setting up Google Account
